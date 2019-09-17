@@ -20,7 +20,9 @@
 - ## 如何使用
 
         1. Python
-            # 在 .py文件包含以下模块
+            # 直接运行WYU_ResNet_captacha.py文件
+
+            # 或在 .py文件包含以下模块
             from WYU_ResNet_captacha import *
 
             # 使用CPU测试
